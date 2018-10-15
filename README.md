@@ -1,2 +1,2 @@
-# The-Rainbow-Color
-This is the color included in rainbow.
+# The-Rainbow-ColorS
+This is the colorS included in rainbow.
